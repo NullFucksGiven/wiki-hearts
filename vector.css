@@ -1,0 +1,10 @@
+body { 
+    font-family: "Comic Sans", "Comic Sans MS", "marrydale", sans-serif 
+} 
+ 
+
+.mw-body h1, .mw-body h2 { 
+	padding: 8px;
+    font-family: "Trattatello", "Brush Script MT", cursive, fantasy;  
+    color: #fc3dec;
+}
