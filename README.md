@@ -1,3 +1,4 @@
 # wiki-hearts
-Adds hearts to Wikipedia titles
+Adds hearts to Wikipedia title
+
 Makes Wikipedaia a more CUTE expirience 
